@@ -1,5 +1,7 @@
 {
   "name": "crudop",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
